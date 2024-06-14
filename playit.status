@@ -1,380 +1,382 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718391682336 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718392069101 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391685388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392072202 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391688452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392075248 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391691494 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392078302 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391694565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392081361 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391697616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392084400 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391700671 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392087482 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391703805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392090543 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391706889 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392093609 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391709967 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392096693 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391713004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392099767 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391716040 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392102818 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391719082 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392105877 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391722178 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392108930 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391725298 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392112001 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391728353 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392115065 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391731412 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392118107 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391734459 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392121165 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391737501 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392124211 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391740557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392127279 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391743606 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392130332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391746678 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392133402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391749754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392136466 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391752807 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392139520 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391755870 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392142751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391758920 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392146053 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391761972 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392149139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391765039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392152236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391768107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392155293 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391771176 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392158337 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391774242 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392161385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391777293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392164446 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391780332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392167557 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391783369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392170686 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391786416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392173810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391789515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392176856 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391792595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392179910 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391795654 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392182958 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391798730 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718392186017 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391801848 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0
+[2J8[0mplayit (v0.15.13): 1718392189060 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391804888 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0
+[2J8[0mplayit (v0.15.13): 1718392192113 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391807938 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0
+[2J8[0mplayit (v0.15.13): 1718392195190 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391810986 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0
+[2J8[0mplayit (v0.15.13): 1718392198283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391814052 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0
+[2J8[0mplayit (v0.15.13): 1718392201388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391817106 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392204528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391820171 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392207576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391823231 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392210614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391826280 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392213664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391829336 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392216702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391832392 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392219751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391835480 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392222806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391838532 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392225895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391841730 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392228961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391844786 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392232032 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391847890 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392235096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391850935 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392238134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391853991 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392241177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391857056 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392244269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391860120 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392247449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391863224 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392250561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391866282 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392253635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391869325 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392256684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391872392 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392259740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391875443 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392262794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391878499 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392265850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391881590 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392268898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391884647 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392271939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391887734 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392275071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391890781 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392278112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391893839 tunnel running, 1 tunnels registered
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718392281176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391896892 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391899981 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391903045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391906096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391909151 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718391912242 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-where-assumes.gl.at.ply.gg:26989 => 127.0.0.1:26989 (proto: Udp, port count: 1)
+bad-queens.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
