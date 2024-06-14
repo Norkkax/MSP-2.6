@@ -1,8 +1,8 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   },
   "tunnels": [
     {
@@ -49,6 +49,51 @@
       },
       "region": "global",
       "tunnel_type": null
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "bad-queens.gl.joinmc.link",
+          "assigned_srv": "bad-queens.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "46e4efc3-bf7c-4f41-a86c-98faa216e0e8",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 24054,
+          "port_start": 24053,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-06-14T19:09:44.512749Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "97cfa7be-d8eb-40cb-88a5-7a0c9c4721a0",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "f18b57c8-d77f-4e53-a210-2226b9ee98f6",
+          "agent_name": "thelostworld",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
     }
   ],
   "udp_alloc": {
